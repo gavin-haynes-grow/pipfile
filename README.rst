@@ -12,7 +12,7 @@ This repository contains the design specification of the ``Pipfile`` format, as 
 
 -------------------------
 
-To use Pipfile today, try out `Pipenv <http://pipenv.org>`_. It contains the current reference implementation.
+To use Pipfile today, try out `Pipenv <https://github.com/pypa/pipenv>`_. It contains the current reference implementation.
 
 
 The Concept
